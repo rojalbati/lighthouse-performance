@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/cypress run --spec ./cypress/integration/* --browser chrome"
+    "test": "./node_modules/.bin/cypress run --spec ./cypress/integration/* --browser chrome --record"
   },
   "keywords": [],
   "author": "rojal.bati@gmail.com",
