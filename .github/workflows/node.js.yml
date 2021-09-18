@@ -32,5 +32,5 @@ jobs:
     - uses: actions/upload-artifact@v2
       with:
         name: report
-        path: cypress/screenshots cypress/videos
+        path: cypress/screenshots
         retention-days: 30
