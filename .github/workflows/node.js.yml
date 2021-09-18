@@ -31,6 +31,6 @@ jobs:
     - run: npm test
     - uses: actions/upload-artifact@v2
       with:
-        name: dashboard
-        path: cypress/screenshots
+        name: report
+        path: cypress/screenshots cypress/videos
         retention-days: 30
