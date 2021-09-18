@@ -2,5 +2,8 @@
     "baseUrl": "https://www.google.com/",
     "taskTimeout": 160000,
     "failOnStatusCode": false,
-    "projectId": "a3horw"
+    "projectId": "a3horw",
+    "env": {
+    "CYPRESS_RECORD_KEY": ""
+  }
 }
