@@ -1,5 +1,5 @@
 {
-    "baseUrl": "https://www.google.com/",
+    "baseUrl": "https://www.facebook.com/",
     "taskTimeout": 160000,
     "failOnStatusCode": false,
     "projectId": "a3horw"
