@@ -1,0 +1,17 @@
+{
+    "threshold": {
+        "performance": 0,
+        "first-contentful-paint": 100000,
+        "largest-contentful-paint": 100000,
+        "accessibility": 0,
+        "interactive": 100000,
+        "seo": 0,
+        "pwa": 0
+    },
+    "lighthouseConfig": {
+        "formFactor": "desktop",
+        "screenEmulation": {
+            "disabled": true
+        }
+    }
+}

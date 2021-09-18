@@ -1,0 +1,19 @@
+{
+  "name": "Cypress-Lighthouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress run --spec ./cypress/integration/* --browser chrome"
+  },
+  "keywords": [],
+  "author": "rojal.bati@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^8.4.1",
+    "cypress-audit": "^1.0.0"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}
