@@ -12,9 +12,7 @@ describe('Run lighthouse performance audits using custom thresholds', function (
 
             cy.visit('/');
             cy.lighthouse(threshold, lighthouseConfig);
-            
-            cy.wait(5000)
-            
+                        
         })
 
     })
