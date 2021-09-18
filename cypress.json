@@ -1,5 +1,5 @@
 {
-    "baseUrl": "https://www.cypress.io/",
+    "baseUrl": "https://github.com/rojalbati/lighthouse-performance/",
     "taskTimeout": 160000,
     "failOnStatusCode": false,
     "projectId": "a3horw"
