@@ -1,5 +1,5 @@
 {
-    "baseUrl": "https://nepal.com/",
+    "baseUrl": "https://www.cypress.io/",
     "taskTimeout": 160000,
     "failOnStatusCode": false,
     "projectId": "a3horw"
