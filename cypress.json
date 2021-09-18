@@ -1,5 +1,5 @@
 {
-    "baseUrl": "https://github.com/rojalbati/lighthouse-performance/",
+    "baseUrl": "https://jmeter.apache.org/",
     "taskTimeout": 160000,
     "failOnStatusCode": false,
     "projectId": "a3horw"
