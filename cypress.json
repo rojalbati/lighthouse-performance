@@ -1,5 +1,5 @@
 {
-    "baseUrl": "https://jmeter.apache.org/",
+    "baseUrl": "https://www.google.com/",
     "taskTimeout": 160000,
     "failOnStatusCode": false,
     "projectId": "a3horw"
